@@ -117,7 +117,6 @@
             isBasicClass = YES;
             allocStr = allocArr[k];
         }
-        
     }
     
     NSString *str = @"";
